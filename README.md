@@ -16,6 +16,7 @@ pip install -r requirements.txt
 
 
 4. **To run the main script**
+   
    python src/main.py
 
 
