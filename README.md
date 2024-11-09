@@ -8,11 +8,14 @@ This is a Python-based web automation tool that leverages the power of Selenium 
    git clone [enter url]
 
 2. **Install dependencies**
+   
 cd web-automation-project
-pip install -r requirements.txt
-pip install  Selenium
 
-3. **To run the main script**
+pip install -r requirements.txt
+
+
+
+4. **To run the main script**
    python src/main.py
 
 
