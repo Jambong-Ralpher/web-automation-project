@@ -1,0 +1,10 @@
+selenium
+webdriver-manager
+requests
+beautifulsoup4
+pytest
+pytest-selenium
+faker
+pandas
+numpy
+matplotlib
