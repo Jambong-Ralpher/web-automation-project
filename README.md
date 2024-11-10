@@ -16,9 +16,11 @@ pip install -r requirements.txt
 
 
 4. **To run the main script**
-   
+      ```bash
    python src/main.py
 
 
 
-   **This project is licensed under the MIT License.**
+
+
+  5. **This project is licensed under the MIT License.**
