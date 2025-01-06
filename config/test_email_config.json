@@ -1,0 +1,33 @@
+{
+
+    "sender": "test@example.com",
+
+    "emails": [
+
+        {
+
+            "to": "recipient1@example.com",
+
+            "subject": "Test Subject 1",
+
+            "body": "Test Body 1",
+
+            "attachments": []
+
+        },
+
+        {
+
+            "to": "recipient2@example.com",
+
+            "subject": "Test Subject 2",
+
+            "body": "Test Body 2",
+
+            "attachments": []
+
+        }
+
+    ]
+
+}
