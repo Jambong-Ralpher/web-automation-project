@@ -1,0 +1,20 @@
+{
+    "fields": [
+        {
+            "type": "input",
+            "selector": "#username",
+            "value": "testuser"
+        },
+        {
+            "type": "input",
+            "selector": "#password",
+            "value": "testpass"
+        },
+        {
+            "type": "select",
+            "selector": "#country",
+            "value": "United States"
+        }
+    ],
+    "submit": "#submit-button"
+}
