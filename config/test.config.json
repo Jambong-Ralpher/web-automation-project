@@ -1,0 +1,12 @@
+{
+        "base_url": "https://www.example.com",
+       "login": {
+       "username_field": "#username_input",
+        "password_field": "#password_input",
+            "submit_button": "#login_button",
+             "username": "your_username",
+             "password": "your_password"
+},
+         "search_field": "#search_input"
+          
+}
